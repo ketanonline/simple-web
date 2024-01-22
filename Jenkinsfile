@@ -1,4 +1,4 @@
-@Library('rest-shared-pipeline@master') _
+@Library('rest-shared-pipeline@main') _
 
 gitCheckout (
 
