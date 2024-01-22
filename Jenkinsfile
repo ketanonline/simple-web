@@ -1,6 +1,6 @@
 @Library("rest-shared-pipeline@main") _
 
-gitCheckout {
+gitCheckout (
 
     branch: 'master', scmUrl: 'ssh://git@github.com:ketanonline/simple-web.git',
                    email: 'ketanonline@gmail.com', serverPort: '8080',
@@ -9,4 +9,4 @@ gitCheckout {
                    productionServer: 'production-myproject.mycompany.com'
     
     
-}
+)
