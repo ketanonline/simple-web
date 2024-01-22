@@ -1,3 +1,4 @@
+@Library("rest-shared-pipeline@main") _
 
 gitCheckout {
     branch = 'master'
