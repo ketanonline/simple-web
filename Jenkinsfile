@@ -6,7 +6,7 @@ gitCheckout (
                    email: 'ketanonline@gmail.com', serverPort: '8080',
                    developmentServer: 'dev-myproject.mycompany.com',
                    stagingServer: 'staging-myproject.mycompany.com',
-                   productionServer: 'production-myproject.mycompany.com'
+                   productionServer: 'production-myproject.company.com'
     
     
 )
