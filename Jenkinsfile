@@ -2,7 +2,7 @@
 
 gitCheckout (
 
-    branch: 'master', scmUrl: 'git@github.com:ketanonline/simple-web.git',
+    branch: 'master', scmUrl: 'https://github.com/ketanonline/simple-web.git',
                    email: 'ketanonline@gmail.com', serverPort: '8080',
                    developmentServer: 'dev-myproject.mycompany.com',
                    stagingServer: 'staging-myproject.mycompany.com',
